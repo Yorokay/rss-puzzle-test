@@ -1,0 +1,4 @@
+{
+  "pattern": "^(init|feat|fix|refactor|docs|style|build|chore|revert)/RSS-PZ-\\d{2,}_[a-zA-Z]+$",
+  "errorMsg": "The branch name does not meet the requirements"
+}
