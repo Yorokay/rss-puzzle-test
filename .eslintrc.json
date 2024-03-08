@@ -25,5 +25,6 @@
         "endOfLine": "auto"
       }
     ]
-  }
+  },
+  "noInlineConfig": true
 }
